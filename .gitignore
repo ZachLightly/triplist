@@ -1,1 +1,7 @@
 old_ex/
+
+.env
+*.env
+
+*.venv/
+.venv/
